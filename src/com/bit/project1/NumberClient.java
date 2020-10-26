@@ -456,7 +456,7 @@ public class NumberClient extends Frame{
    public static  void main(String[] args) {
       
       // 서버정보
-      String ip = "192.168.0.8";
+      String ip = "192.000.0.0"; //서버컴퓨터의 ip주소를 입력해 주세요 
       int port = 8080;
       
       Socket sock = null;
