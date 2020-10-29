@@ -1,6 +1,6 @@
 # Bitcamp-1stProject
 비트캠프 164기 첫번째 프로젝트
-:video_game:누가 25를 먼저 옮겼을까:question:
+:video_game:누가 25를 먼저 눌렀을까:question:
 
 Java socket 통신을 활용한 게임입니다. 
 
